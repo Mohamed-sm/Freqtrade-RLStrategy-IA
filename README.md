@@ -1,4 +1,4 @@
-# RLStrategy - Reinforcement Learning Strategy for FreqAI
+# RLStrategy - Reinforcement Learning Strategy for FreqAI with 91.78% win rate
 
 ## 📊 Performance Statistics
 
