@@ -1,0 +1,107 @@
+# FreqTrade specific
+user_data/data/
+user_data/logs/
+user_data/backtest_results/
+user_data/hyperopt_results/
+user_data/plot/
+user_data/tradesv3.sqlite
+user_data/tradesv3_*.sqlite
+user_data/backtest-results-*.json
+user_data/hyperopt-results-*.json
+
+# FreqAI specific
+user_data/models/
+user_data/predictions/
+user_data/ai_models/
+user_data/ai_models_metadata/
+user_data/ai_models_metadata.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuration files with sensitive data
+config_private.json
+config_production.json
+config_live.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files (can be large)
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+
+# Results and reports
+results/
+reports/
+backtest_results/
+hyperopt_results/ 

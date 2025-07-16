@@ -1,0 +1,15 @@
+freqtrade>=0.50.0
+freqai>=0.5.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+talib-binary>=0.4.0
+pandas-ta>=0.3.0
+joblib>=1.1.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0 
